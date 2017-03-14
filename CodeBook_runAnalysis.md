@@ -11,11 +11,17 @@ We read all text files that are needed for our analysis which type of activities
 
 > activityLabels
 *  V1                 V2
+
 *1  1            WALKING
+
 *2  2   WALKING_UPSTAIRS
+
 *3  3 WALKING_DOWNSTAIRS
+
 *4  4            SITTING
+
 *5  5           STANDING
+
 *6  6             LAYING
 
 Which functions have been monitored, like the ones we are interested in for this analysis (mean and deviation) in variable "features"
