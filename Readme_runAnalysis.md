@@ -11,3 +11,9 @@
 
 Analyze data collected from the accelerometers from the Samsung Galaxy S smartphone.
 Variables are measured by two dimensions Activity done and Subject
+
+# OUTPUT NAME & FORMAT
+
+"Tidy_Data_byIrene.txt"
+
+
