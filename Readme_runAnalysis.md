@@ -7,3 +7,7 @@
 #### 4th: Preparing table to be able to perform a correct mean output by subject and activity label with melt and dcast functions
 #### 5th: Writing table in ".txt" format 
 
+# Script goal is to:
+
+Analyze data collected from the accelerometers from the Samsung Galaxy S smartphone.
+Variables are measured by two dimensions Activity done and Subject
